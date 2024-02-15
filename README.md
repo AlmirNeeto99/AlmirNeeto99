@@ -25,6 +25,8 @@ int main () {
 
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirNeeto99&layout=pie&langs_count=5)](https://github.com/AlmirNeeto99)
+
 ![](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
@@ -35,4 +37,4 @@ int main () {
 ---
 ## Get in touch
 
-![](https://img.shields.io/badge/almirneto338%40gmail.com-red?logo=gmail&logoColor=white) ![https://www.linkedin.com/in/almir-neeto/](https://img.shields.io/badge/almirneto338%40gmail.com-blue?logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/almirneto338%40gmail.com-red?logo=gmail&logoColor=white) ![https://www.linkedin.com/in/almir-neeto/](https://img.shields.io/badge/Almir_Neto-blue?logo=linkedin&logoColor=white)
