@@ -27,6 +27,7 @@ int main () {
 ![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/GL-white?logo=opengl&logoColor=red)
+![](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
 
 ![My GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AlmirNeeto99&theme=dark)
 
