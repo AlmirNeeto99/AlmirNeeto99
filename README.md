@@ -21,9 +21,6 @@ int main () {
 
 ```
 
----
-## Stats
-
 ![My GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AlmirNeeto99&theme=dark)
 
 ---
