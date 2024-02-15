@@ -1,8 +1,4 @@
-# Welcome to my profile 👋
-
-**This profile is under construction!!!**
-
-Hi, I am Almir Neto.
+# Hi, I am Almir Neto 👋
 
 - 💻 Computer Enginner under formation!
 - Passionate by Graphics and Visual Effects
