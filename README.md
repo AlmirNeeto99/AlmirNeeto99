@@ -33,4 +33,4 @@ int main () {
 ---
 ## Get in touch
 
-![](https://img.shields.io/badge/almirneto338%40gmail.com-red?logo=gmail&logoColor=white) ![https://www.linkedin.com/in/almir-neeto/](https://img.shields.io/badge/Almir_Neto-blue?logo=linkedin&logoColor=white)
+[![](https://img.shields.io/badge/almirneto338%40gmail.com-red?logo=gmail&logoColor=white)](mailto:almirneto338@gmail.com) [![https://www.linkedin.com/in/almir-neeto/](https://img.shields.io/badge/Almir_Neto-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almir-neeto/)
