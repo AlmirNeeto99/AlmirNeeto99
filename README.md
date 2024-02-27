@@ -14,7 +14,7 @@
 
 int main () {
 
-  std::string[] skills = {HardSkill::C, HardSkill::CPP, HardSkill::GL, HardSkill::Java};
+  std::string[] skills = {HardSkill::C, HardSkill::CPP, HardSkill::Java, HardSkill::Python};
   std::string[] languages = {"Portuguese", "English"};
   return SUCCESS;
 }
@@ -26,8 +26,10 @@ int main () {
 ![](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![](https://img.shields.io/badge/GL-white?logo=opengl&logoColor=red)
 ![](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue)
+
+[comment]: ![](https://img.shields.io/badge/GL-white?logo=opengl&logoColor=red)
 
 ![My GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AlmirNeeto99&theme=dark)
 
