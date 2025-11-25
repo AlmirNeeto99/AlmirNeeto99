@@ -10,12 +10,16 @@
 ## Tech Stack
 
 ```cpp
+#include <string>
+#include <vector>
+
+#include <languages>
 #include <hardskills>
 
 int main () {
 
-  std::string[] skills = {HardSkill::C, HardSkill::CPP, HardSkill::Java, HardSkill::Python};
-  std::string[] languages = {"Portuguese", "English"};
+  std::vector<std::string> skills = {HardSkill::C, HardSkill::CPP, HardSkill::Java, HardSkill::Python};
+  std::vector<std::string> languages = {Language::Portuguese, Language::English};
   return SUCCESS;
 }
 
