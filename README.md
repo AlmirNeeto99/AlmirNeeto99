@@ -1,6 +1,6 @@
 # Hi, I am Almir Neto 👋
 
-- 💻 Computer Enginner!
+- 💻 Computer Engineer!
 - Passionate by Graphics and Visual Effects
 - Artificial Intelligence enthusiast
 - ❤️ Love coding
